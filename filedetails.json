@@ -1,6 +1,6 @@
 {
 "ovpn_file":[
-  {"id":0,"file":"client
+  {"id":1,"file":"client
 dev tun
 remote us-lax.gw.openvpn.com 1194 udp
 remote us-lax.gw.openvpn.com 1194 udp
